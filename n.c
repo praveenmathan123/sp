@@ -21,4 +21,5 @@ printf("no");
 }
 return 0; 
 }
-© 2018 Git
+return0;
+}
